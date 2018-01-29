@@ -6,7 +6,7 @@
  <meta name="viewport" content="width=device-width, initial-scale=1"> 
  <!-- CSRF Token --> 
  <meta name="csrf-token" content="{{ csrf_token() }}"> 
- <title>Laravel y Vue leo</title> 
+ <title>Laravel y Vue</title> 
  <link rel="stylesheet" href="{{ elixir('css/app.css') }}"> 
  </head> 
  <body> 
